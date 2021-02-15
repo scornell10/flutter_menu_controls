@@ -7,4 +7,5 @@ Example of Menus in options.
 3. Slide Menu
 
 #Demo
-https://github.com/scornell10/flutter_menu_controls/blob/main/demo.mov
+
+![Alt Text](https://github.com/scornell10/flutter_menu_controls/blob/main/demo.gif)
